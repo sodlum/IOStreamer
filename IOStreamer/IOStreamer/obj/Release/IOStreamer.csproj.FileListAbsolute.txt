@@ -1,0 +1,5 @@
+c:\users\odlums\source\repos\IOStreamer\IOStreamer\bin\Release\IOStreamer.dll
+c:\users\odlums\source\repos\IOStreamer\IOStreamer\bin\Release\IOStreamer.pdb
+c:\users\odlums\source\repos\IOStreamer\IOStreamer\obj\Release\IOStreamer.csproj.CoreCompileInputs.cache
+c:\users\odlums\source\repos\IOStreamer\IOStreamer\obj\Release\IOStreamer.dll
+c:\users\odlums\source\repos\IOStreamer\IOStreamer\obj\Release\IOStreamer.pdb

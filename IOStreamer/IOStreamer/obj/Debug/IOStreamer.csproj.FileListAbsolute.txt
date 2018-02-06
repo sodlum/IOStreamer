@@ -1,0 +1,6 @@
+c:\users\odlums\source\repos\IOStreamer\IOStreamer\bin\Debug\IOStreamer.dll
+c:\users\odlums\source\repos\IOStreamer\IOStreamer\bin\Debug\IOStreamer.pdb
+c:\users\odlums\source\repos\IOStreamer\IOStreamer\obj\Debug\IOStreamer.csprojResolveAssemblyReference.cache
+c:\users\odlums\source\repos\IOStreamer\IOStreamer\obj\Debug\IOStreamer.csproj.CoreCompileInputs.cache
+c:\users\odlums\source\repos\IOStreamer\IOStreamer\obj\Debug\IOStreamer.dll
+c:\users\odlums\source\repos\IOStreamer\IOStreamer\obj\Debug\IOStreamer.pdb
